@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack  
 - **Languages:** Typescript, Java, Python, C++, JavaScript, SQL  
-- **Frameworks:** Spring Boot, React.js, Hibernate, Django, GraphQL  
+- **Frameworks:** Node.js, Spring Boot, React.js, Hibernate, Django, GraphQL  
 - **Databases:** MySQL, MongoDB, MS SQL  
 - **DevOps & Cloud:** AWS, Docker, Jenkins, CI/CD, Linux  
 - **Other Skills:** REST APIs, OAuth2, JWT, Multithreading, Distributed Systems  
