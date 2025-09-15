@@ -5,7 +5,7 @@
 🎯 Experienced in **Java, Spring Boot, React.js, AWS, Microservices, and AI**  
 
 ## 🔧 Tech Stack  
-- **Languages:** Java, Python, C++, JavaScript, SQL  
+- **Languages:** Typescript, Java, Python, C++, JavaScript, SQL  
 - **Frameworks:** Spring Boot, React.js, Hibernate, Django, GraphQL  
 - **Databases:** MySQL, MongoDB, MS SQL  
 - **DevOps & Cloud:** AWS, Docker, Jenkins, CI/CD, Linux  
