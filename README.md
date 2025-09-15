@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | AI & Cloud Enthusiast**  
 💡 Passionate about building scalable applications, optimizing security, and driving automation.  
-🎯 Experienced in **Java, Spring Boot, React.js, AWS, Microservices, and AI**  
+🎯 Experienced in **TypeScript, Node.js, Java, Spring Boot, React.js, AWS, Microservices, and AI**  
 
 ## 🔧 Tech Stack  
 - **Languages:** Typescript, Java, Python, C++, JavaScript, SQL  
